@@ -46,7 +46,7 @@ If you'd like to run this app locally:
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/yourusername/accident-form-submission-app.git
+   git clone https://github.com/Dimitriy07/vehicle-accident-app.git
    ```
 2. Navigate to the project directory:
    cd Vehicle-Accident-App
